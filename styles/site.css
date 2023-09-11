@@ -1,0 +1,19 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: serif;
+  font-size: 18px;
+}
+
+p {
+  color: #363505;
+}
+
+img {
+  border-radius: 8px;
+}
+
+em {
+  font-style: normal; /* removes italics */
+  font-weight: bold; /* adds bold */
+}
